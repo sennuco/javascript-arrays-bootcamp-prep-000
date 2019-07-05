@@ -18,6 +18,6 @@ function destructivelyAddElementToBeginningOfArray(array,element){
 
 function addElementToEndOfArray(array, element){
   
-  return []
+  return [...array, ]
   
 }
